@@ -1,3 +1,3 @@
 # Toggle Scroll Bars Visibility Changelog
 
-## [Initial Version] - 2023-08-20
+## [Initial Version] - {PR_MERGE_DATE}
