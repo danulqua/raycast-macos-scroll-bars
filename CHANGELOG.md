@@ -1,3 +1,8 @@
 # Toggle Scroll Bars Visibility Changelog
 
-## [Initial Version] - {PR_MERGE_DATE}
+## [Improvements] - {PR_MERGE_DATE}
+
+- Apply changes to scroll bars visibility without opening System Settings
+- Add new command "View Scroll Bars Visibility Value" for viewing current scroll bars visibility value
+
+## [Initial Version] - 2023-08-22
